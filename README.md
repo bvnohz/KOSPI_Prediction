@@ -1,6 +1,9 @@
 # KOSPI_Prediction
 
 
+## PROJECT
+
+
 ### KOSPI_LSTM
 <p align="center">
   <img src="https://github.com/bvnohz/KOSPI_Prediction/assets/141910199/f684bd07-0a81-41d1-a3d8-8f57f8d9fcbd">
