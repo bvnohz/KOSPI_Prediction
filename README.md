@@ -7,6 +7,12 @@
 그 중 분석에 사용한 열은 Close(종가) 데이터이며 이를 기반으로 시계열 분석을 진행한 주가 등락 예측 프로젝트이다. 
 
 
+📊 ### MODEL
+* RNN
+* LSTM
+* TRANSFORMER
+
+
 ### KOSPI_LSTM
 <p align="center">
   <img src="https://github.com/bvnohz/KOSPI_Prediction/assets/141910199/f684bd07-0a81-41d1-a3d8-8f57f8d9fcbd">
